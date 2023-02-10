@@ -1,0 +1,138 @@
+h1 {
+  color:#f54991;
+  margin-left: 30%;
+  
+}
+
+h2 {
+  color: hotpink; font-size: 25px;
+  margin-left: 44%;
+}
+
+#drolada-ama {
+  margin-left: 15px;
+}
+  
+#drolada-odia {
+  margin-left: 0px;
+}
+
+#primera {
+  margin-left: 32%;
+
+}
+
+#segunda {
+  margin-left: 32%;
+}
+
+#tercera {
+  margin-left: 15px;
+
+}
+
+#cuarta {
+  margin-left: 15px;
+
+}
+
+
+p,
+li {
+  color: mediumpurple;
+
+}
+
+* {
+  font-family: 'Pacifico', cursive;
+
+}
+
+.gatos {
+  width: 500px;
+  border-width: 15px;
+  border-color: hotpink;
+  border-style: dashed;
+  border-radius: 10%;
+
+}
+
+.bordes {
+  width: 400px;
+  border-width: 15px;
+  border-radius: 10%;
+  border-color: hotpink;
+  border-style: dashed;
+
+}
+
+body {
+  background-color: lightpink;
+  color: mediumpurple;
+
+}
+
+#titulo-principal {
+  font-size: 60px;
+  
+}
+
+input[type="radio"] {
+  margin-top: 15px;
+  margin-left:15px;
+  margin-bottom: 15px;
+  
+}
+
+input[type="checkbox"] {
+  margin-bottom: 30px;
+  margin-left:15px;
+  margin-top:15px ;
+  
+}
+
+input[type="text"] {
+  margin-left: 15px;
+  margin-bottom: 15px;
+
+}
+
+#personalidad {
+  margin-left: 15px;
+}
+
+.vw {
+  width: 30vw;
+}
+video {
+  width: 35%;
+  height: 5%;
+  margin-left: 32%;
+}
+
+#facee {
+  width: 40px;
+  height: 40px;
+  margin-right: 13px;
+  margin-left: 15px;
+}
+
+#ins {
+  width: 40px;
+  height: 40px;
+  margin-right: 13px;
+}
+
+#tuit {
+  width: 40px;
+  height: 40px;
+}
+
+
+#sig {
+  margin-left: 15px;
+}
+
+
+
+
